@@ -1,3 +1,6 @@
+> ⚠️ **This project has moved.** Active development continues at [polaris-smart/awesome-dsh-plugins](https://github.com/polaris-smart/awesome-dsh-plugins).
+> 本项目已迁移，请前往上方新仓库。
+
 # Awesome DeepSeek Harness (DSH) Plugin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![awesome · DSH plugin](https://awesome-dsh-plugin.com/badge.svg) ![plugin count](https://img.shields.io/endpoint?url=https%3A%2F%2Fawesome-dsh-plugin.com%2Fcount.json)
 
 [![Awesome DSH Plugin](https://awesome-dsh-plugin.com/banner-en.png)](https://awesome-dsh-plugin.com)
